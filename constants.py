@@ -1,0 +1,9 @@
+RIASEC_CODES=['Realistic', 'Investigative', 'Artistic', 'Social', 'Enterprising', 'Conventional']
+JOB_ZONE_LEVELS=[4, 5]
+MIN_ZONE=4
+ALL_OCCUPATION_FILE='data/all_occupation.csv'
+FILTERED_OCCUPATION_BY_ZONE_FILE='data/filtered_by_zone.csv'
+STEM_OCCUPATION_FILE='data/stem_occupations.csv'
+STEM_OCCUPATION_JOB_TITLE_FILE='data/stem_occupation_job_titles.csv'
+MERGED_OCCUPATION_FILE='data/merged_occupation.csv'
+LOGFILE_PATH='logs/logfile.log'
