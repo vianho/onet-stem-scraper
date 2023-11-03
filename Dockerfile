@@ -1,4 +1,4 @@
-FROM python:3.13-rc-alpine3.17
+FROM python:bullseye
 
 COPY . .
 RUN pip install -r requirements.txt
